@@ -1,4 +1,10 @@
-## Installation
+## Installation/Run
+Install requirements:
+```
+pip install -r requirements.txt
+```
+
+Run api.py and use api with curl using examples below as a reference. Requests and response are formatted in JSON. The database used is Mongodb and is hosted at Rackspace.
 
 ## API usage examples using curl
 
