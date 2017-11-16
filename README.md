@@ -4,7 +4,7 @@ Install requirements:
 pip install -r requirements.txt
 ```
 
-Run api.py and use api with curl using examples below as a reference. Requests and response are formatted in JSON. The database used is Mongodb and is hosted at Rackspace.
+Run api.py and use the api following the examples below. Requests and response are formatted in JSON. The database used is Mongodb and it is hosted at Rackspace.
 I was not able to implement unit testing.
 
 ## API usage examples using curl
